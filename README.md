@@ -4,17 +4,12 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 # Steps
 
-I. Download the datasets form the link provided
-
-II. Merges the training and the test sets to create one data set
-
-a. Combine the columns of list of subjects for activities, subject, and Measurements for the training set
-
-b. Combine the columns of list of subjects for activities, subject, and Measurements for the test set
-
-c. Combine the rows of the training set and test sets to create a MEGGA DATA SETTT
-
-III.Extracts only the measurements on the mean and standard deviation for each measurement.
+1. Download the datasets form the link provided
+2. Merges the training and the test sets to create one data set
+   *Combine the columns of list of subjects for activities, subject, and Measurements for the training set
+   *Combine the columns of list of subjects for activities, subject, and Measurements for the test set
+   *Combine the rows of the training set and test sets to create a MEGGA DATA SETTT
+3. Extracts only the measurements on the mean and standard deviation for each measurement.
 
    a. Search for the word "mean" and the word "std", to extract the desited measurements
    
