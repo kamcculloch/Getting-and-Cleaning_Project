@@ -1,4 +1,4 @@
-# Abstract **See Code-book after steps** 
+# Abstract, Steps, and See Code-book 
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. The following steps catalog the proceadure used to download, read, manipulate, and clean Samsung Measurement data for the Coursera Getting and Cleaning Course Project.
 
